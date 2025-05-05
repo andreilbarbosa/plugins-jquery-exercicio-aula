@@ -15,4 +15,4 @@ Foi confeccionado junto com o Professor durante as aulas, uma Home da EBAC Motor
 
 #### Criação desse README é apenas para resumir o que foi feito e para um melhor entendimento do que se trata o repositório.
 
-##### Link Vercel:
+##### Link Vercel: https://plugins-jquery-aula.vercel.app
